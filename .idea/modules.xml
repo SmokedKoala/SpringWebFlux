@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringWebFlux.iml" filepath="$PROJECT_DIR$/.idea/SpringWebFlux.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pr7/pr7.iml" filepath="$PROJECT_DIR$/pr7/pr7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-webflux-demo/spring-webflux-demo.iml" filepath="$PROJECT_DIR$/spring-webflux-demo/spring-webflux-demo.iml" />
     </modules>
   </component>
 </project>
